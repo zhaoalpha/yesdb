@@ -2,7 +2,6 @@
 
 #include <string>
 #include <ctime>
-#include <cstdint>
 #include <memory>
 namespace yesdb {
 
